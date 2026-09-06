@@ -151,7 +151,7 @@ A bullet list of 3–8 key capabilities. This is scannable content — developer
 - Include only what's strictly necessary
 - List requirements/basic prerequisites
 
-```markdown
+~~~~markdown
 ### Installation
 
 Requires Python 3.9+.
@@ -165,7 +165,7 @@ Or with poetry:
 ```bash
 poetry add superfast
 ```
-```
+~~~~
 
 If your project has platform-specific instructions, use tabs or separate subsections.
 
@@ -173,7 +173,7 @@ If your project has platform-specific instructions, use tabs or separate subsect
 
 Show real, working examples. Idiom-first — demonstrate the typical use case immediately, not edge cases.
 
-```markdown
+~~~~markdown
 ### Usage
 
 ```python
@@ -182,7 +182,7 @@ from superfast import dumps
 data = {"hello": "world"}
 print(dumps(data))  # {"hello":"world"}
 ```
-```
+~~~~
 
 Guidelines:
 
@@ -301,7 +301,7 @@ Before you push, verify every box:
 
 ### Minimal (1 file, no frills)
 
-```markdown
+~~~~markdown
 # Project Name
 
 One-sentence value proposition.
@@ -327,7 +327,7 @@ project.do_thing()
 ## License
 
 MIT. See [LICENSE](./LICENSE).
-```
+~~~~
 
 ### Full (professional / OSS flagship)
 
