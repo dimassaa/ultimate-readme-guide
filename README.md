@@ -94,5 +94,5 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 ---
 
 <p align="center">
-  Made with care by <a href="https://github.com/dimassaa">dimassaa</a>
+  Made with ❤️ by <a href="https://github.com/dimassaa">dimassaa</a>
 </p>
